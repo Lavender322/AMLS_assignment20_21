@@ -42,7 +42,7 @@ The role of each file in this project is illustrated as follows:
 * The **task_A2.py** script implements binary classification for Task A2.
 * The **task_B1.py** script implements multiclass classification for Task B1.
 * The **task_B2.py** script implements multiclass classification for Task B2.
-* The **result_display.py** script acquires the corresponding classification performance metrics on training, validation, and test datasets for a model and prints to console.
+* The **result_display.py** script acquires the corresponding classification performance metrics on training, validation, and test datasets for a model and prints the scores to console.
 * The **plot_learning_curve.py** script plots learning curves using cross-validation.
 * The **model_selection.py** script performs model selection based on grid search hyper-parameter optimization.
 * The **data_preprocessing.py** script carries out data pre-processing of the raw image data from the two datasets.
