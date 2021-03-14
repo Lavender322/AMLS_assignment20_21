@@ -194,7 +194,7 @@ def img_CNN(training_images, training_labels, val_images, val_labels, test_image
     # the validation loss for three consecutive epochs.
     clf = model.fit(training_images, training_labels,
                     batch_size=128,  # 16,32,64,128
-                    epochs=20,
+                    epochs=100,
                     verbose=1,
                     validation_data=(val_images, val_labels),
                     callbacks=[callback])
