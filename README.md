@@ -39,16 +39,16 @@ Add the specified datasets into the same folder of where you cloned this project
 
 The role of each file in this project is illustrated as follows:
 
-```
-The main.py script contains the main body of this project, which is run only to train, validate, and test the optimal machine learning model selected for the specified four tasks. 
-The task_A1.py script implements binary classification for Task A1.
-The task_A2.py script implements binary classification for Task A2.
-The task_B1.py script implements multiclass classification for Task B1.
-The task_B2.py script implements multiclass classification for Task B2.
-The result_display.py script acquires the corresponding classification performance metrics on training, validation, and test datasets for a model and prints to console.
-The plot_learning_curve.py script plots learning curves using cross-validation.
-The model_selection.py script performs model selection based on grid search hyper-parameter optimization.
-The data_preprocessing.py script carries out data pre-processing of the raw image data from the two datasets.
-The canny_edge_detection.py script performs Canny edge detection.
-The face_landmarks.py script conducts the corresponding feature extraction approaches for all the tasks.
-```
+
+* The main.py script contains the main body of this project, which is run only to train, validate, and test the optimal machine learning model selected for the specified four tasks. 
+* The task_A1.py script implements binary classification for Task A1.
+* The task_A2.py script implements binary classification for Task A2.
+* The task_B1.py script implements multiclass classification for Task B1.
+* The task_B2.py script implements multiclass classification for Task B2.
+* The result_display.py script acquires the corresponding classification performance metrics on training, validation, and test datasets for a model and prints to console.
+* The plot_learning_curve.py script plots learning curves using cross-validation.
+* The model_selection.py script performs model selection based on grid search hyper-parameter optimization.
+* The data_preprocessing.py script carries out data pre-processing of the raw image data from the two datasets.
+* The canny_edge_detection.py script performs Canny edge detection.
+* The face_landmarks.py script conducts the corresponding feature extraction approaches for all the tasks.
+
