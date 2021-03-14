@@ -4,12 +4,12 @@
 
 A brief description of the organization of the project is presented below in a logical order: 
 
-1. Step 1 - Feature extraction: face_landmarks.py, canny_edge_detection.py
-1. Step 2 - Data pre-processing: data_preprocessing.py
-1. Step 3 - Model selection: model_selection.py
-1. Step 4 - Classification (train, validate, and test using the final models): task_A1.py, task_A2.py, task_B1.py, task_B2.py  
-1. Step 5 - Result display: result_display.py, plot_learning_curve.py
-1. Step 6 - Project execution: main.py
+1. Step 1 - **Feature Extraction**: face_landmarks.py, canny_edge_detection.py
+1. Step 2 - **Data Pre-processing**: data_preprocessing.py
+1. Step 3 - **Model Selection**: model_selection.py
+1. Step 4 - **Classification (train, validate, and test using the final models)**: task_A1.py, task_A2.py, task_B1.py, task_B2.py  
+1. Step 5 - **Result Display**: result_display.py, plot_learning_curve.py
+1. Step 6 - **Project Execution**: main.py
 
 ### Prerequisites
 
